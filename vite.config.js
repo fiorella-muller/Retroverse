@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 // repositorio en GitHub (entre barras). Si tu repo se llama "retroverse",
 // dejalo como está. Si le pusiste otro nombre, cambialo acá.
 export default defineConfig({
-  base: '/retroverse/',
+  base: '/Retroverse/',
   plugins: [react()],
 })
